@@ -12,16 +12,15 @@
 - 🔭 Currently working on **Your Project**
 - 🌱 Learning **React, Node.js, Python**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-<a href="">
 - 📫 Email: **shahnazshahnz8@gmail.com**
-</a>
+
 
 ---
 
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mongodb,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,github,vscode,tailwind,bootstarp" />
 </p>
 
 ---
