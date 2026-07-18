@@ -12,7 +12,7 @@
 - 🔭 Currently working on **Your Project**
 - 🌱 Learning **React, Node.js, Python**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 Email: **your@email.com**
+- 📫 Email: **shahnazshahnz8@gmail.com**
 
 ---
 
@@ -27,23 +27,17 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
-</p>
 
----
+
 
 ## 🌐 Connect With Me
 
