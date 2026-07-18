@@ -12,7 +12,9 @@
 - 🔭 Currently working on **Your Project**
 - 🌱 Learning **React, Node.js, Python**
 - 💬 Ask me about **HTML, CSS, JavaScript**
+<a href="">
 - 📫 Email: **shahnazshahnz8@gmail.com**
+</a>
 
 ---
 
