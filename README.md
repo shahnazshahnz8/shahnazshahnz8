@@ -9,7 +9,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **Your Project**
+- 🔭 Currently working on **My Project**
 - 🌱 Learning **React, Node.js, Python**
 - 💬 Ask me about **HTML, CSS, JavaScript**
 - 📫 Email: **shahnazshahnz8@gmail.com**
